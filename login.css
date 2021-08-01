@@ -1,0 +1,30 @@
+body {
+    background: url("https://i.pinimg.com/736x/97/ce/a7/97cea7e15201dc807d266908c4d911b1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#name {
+    font-family: Indie Flower;
+    color: #fa3a51;
+    font-size: 70px;
+}
+
+#inpt {
+    width: 400px; 
+    height: 35px;
+    border-radius: 100px; 
+    font-size: 25px;
+}
+
+#cont {
+    background: white;
+    width: fit-content;
+    height: 200px;
+    border-radius: 10%;
+}
+
+button {
+    width: 20%;
+    height: 5%;
+}
